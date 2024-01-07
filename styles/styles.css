@@ -40,7 +40,7 @@
     padding: 177px 0px;
 }
 
-.header-part2{
+.header-part2 {
     font-family: 'Inter';
 }
 
@@ -69,8 +69,57 @@
     font-weight: 577.5;
 }
 
-.header-part2-img{
+.header-part2-img {
     width: 802.9px;
     height: 450px;
     margin: 48px auto 120px;
+}
+
+.container2 {
+    width: 82.5%;
+    max-width: 1320px;
+    margin: 0px auto;
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
+    height: 495px;
+    background-size: 100%;
+    border-radius: 16px;
+    margin-top: 50px;
+    margin-bottom: 120px;
+    display: flex;
+    align-items: center;
+}
+
+.container2 h1 {
+    color: #FFF;
+    font-size: 52.8px;
+    font-weight: 742.5;
+    letter-spacing: 5.808px;
+    width: 529.65px;
+    font-family: 'Merriweather';
+    margin-bottom: 19.8px;
+}
+
+.container2 p {
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 14.85px;
+    font-weight: 330;
+    font-family: 'Inter';
+    width: 575.025px;
+    margin-bottom: 26.4px;
+}
+
+.container2 h4{
+    color: #FFF;
+    font-family: 'Inter';
+font-size: 16.5px;
+font-weight: 577.5;
+text-transform: uppercase;
+}
+
+.container2-heading{
+    /* padding-left: 126px; */
+}
+
+.container2-main{
+    justify-content: space-around;
 }
