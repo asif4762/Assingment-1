@@ -198,10 +198,11 @@
     justify-content: space-between;
     gap: 20px;
     flex-wrap: wrap;
+    width: fit-content;
 }
 
 .main-container2-img img {
-    width: 82.5%;
+    width: 100%;
     height: 350px;
 }
 
