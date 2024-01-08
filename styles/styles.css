@@ -201,7 +201,7 @@
 }
 
 .main-container2-img img {
-    width: 300px;
+    width: 82.5%;
     height: 350px;
 }
 
@@ -338,5 +338,4 @@ footer {
     justify-content: space-between;
     padding-top: 50px;
     padding-bottom: 120px;
-}
 }
